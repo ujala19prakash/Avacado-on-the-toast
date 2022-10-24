@@ -1,6 +1,6 @@
 # InnoDev 2K22
 ## {HELP KRIS}
-**Team Name : Avacado on the Toast**
+**Team Name : Avacado on the toast**
  
  **Team Members:**
  
