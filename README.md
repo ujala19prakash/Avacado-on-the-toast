@@ -2,7 +2,7 @@
 ## {HELP KRIS}
 **Team Name : Avacado on the toast**
  
- **Team Members:**
+ **Team Members :**
  
    - [Ujala Prakash](https://github.com/ujala19prakash)
 
