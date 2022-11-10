@@ -31,7 +31,6 @@ NUSM is an easy-to-go platform where user can lend and rent things whenever requ
   - Feature to add,update and delete the items for lending.
   - Search option for different items.
   - Descriptive profile page for each user.
-  - Wishlist and cart available for each user.
   - Realtime Location of the items so buyers can easily access the nearest available.
 
 # Future Goals
