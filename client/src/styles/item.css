@@ -1,0 +1,28 @@
+.details_container {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 47, 52, 0.36);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  margin: 16px 0px 0px;
+}
+
+.details_container .title {
+  
+  font-weight: bolder;
+  color: #002f34;
+}
+.details_container .items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.details_container .items .item {
+  display: flex;
+  flex-basis: 50%;
+}
+.details_container .items .item .attribute {
+  opacity: 0.6;
+  flex-basis: 50%;
+}
+.details_container .items .item .value {
+  flex-basis: 50%;
+}

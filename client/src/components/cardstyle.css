@@ -1,0 +1,8 @@
+.styleclass{
+    /* background-color:  #7c7c8d;
+     */
+     background: rgb(225,226,231);
+background: radial-gradient(circle, rgba(225,226,231,1) 0%, rgba(18,3,6,1) 100%);
+    border: 4rem;
+    padding: 2rem;
+}
