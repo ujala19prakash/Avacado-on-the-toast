@@ -8,7 +8,7 @@
 
    - [Masura begum](https://github.com/MasuraBegum)
 
-   - [Shweta Shrivastava](https://github.com/Shweta2254)
+   - [Shweta Srivastava](https://github.com/Shweta2254)
    
    - [Neha Kumari](https://github.com/itznehakumari4)
    
